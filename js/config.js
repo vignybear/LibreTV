@@ -114,6 +114,14 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    jk:{
+        api:'https://www.jktv.app/api.php/provide/vod/',
+        name:'即看资源站'
+    },       
+    kk:{
+        api: 'https://www.kkys04.com//api.php/provide/vod/',
+        name:'kk资源站'
+    },       
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
